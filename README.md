@@ -4,7 +4,6 @@
 <h1 align="center">0x00. AirBnB clone - The console</h1>
 
 
-
 ---
 
 ## Description
