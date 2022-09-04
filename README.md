@@ -1,6 +1,5 @@
 <p align="center">
-![hbnb_logo](https://user-images.githubusercontent.com/66600426/188301012-d3760d86-452e-47e6-b0fc-b01dd9227a53.png)
-
+![hbnb_logo](https://user-images.githubusercontent.com/66600426/188301109-dddde646-d339-4a7a-b8f1-0a68176f87c0.png)
 </p>
 
 <h1 align="center">0x00. AirBnB clone - The console</h1>
