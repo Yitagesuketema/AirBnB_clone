@@ -276,6 +276,7 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
+
 * **Yitagesu K Areda** <[Yitagesu](https://github.com/yitagesuketema)>
 
 * **Barnabas A Belay** <[Barnabas A Belay](https://github.com/Barnabas121)>
